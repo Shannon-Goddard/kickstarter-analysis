@@ -8,9 +8,11 @@ Performing analysis on Kickstarter data to uncover trends
 <br/>
 -Interpret the summary data provided from the visualizations
 <br/>
-![Outcomes Based on Goals Chart](https://github.com/Shannon-Goddard/kickstarter-analysis/blob/master/Goal%20Chart.png)
+
+![Goal Chart](https://github.com/Shannon-Goddard/kickstarter-analysis/blob/master/Goal%20Chart.png)
  <br/>
  Outcomes Based On Goals chart analysis
+ <br/>
  
  ![Launch Date Chart](https://github.com/Shannon-Goddard/kickstarter-analysis/blob/master/Launch%20Date%20Chart.png)
  <br/>
