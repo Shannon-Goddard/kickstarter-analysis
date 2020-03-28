@@ -12,8 +12,7 @@
 This module is a deep dive into Excel, a tool that can be used across all areas of life, from household budgeting to complex financial analysis. Learning the intricacies of Excel will draw on (and enhance) skills we may have already, like computer literacy, data literacy, and quantitative reasoning.  
 
 ## Resources  
-- **Software:** Excel   
-- **Data Source:** [data.census.gov](https://data.census.gov)    
+- **Software:** Excel       
 
 ## Objectives  
 - Use filters and Excel formula to create new datasets
