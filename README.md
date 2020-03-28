@@ -59,7 +59,10 @@ In the "Outcomes Based on Goals" sheet, do the following:
 7. Save the line chart as a .png image.  
 ![Goal Chart](/Goal%20Chart.png)  
 **Outcomes Based On Goals chart**  
-
+<br/>
+<br/>
+<br/>
+<br/>
 In the "Outcomes Based on Launch Date" sheet, do the following:  
 
 1. Create a pivot table that charts the outcome of each Kickstarter project based on the launch date.  
