@@ -57,8 +57,7 @@ In the "Outcomes Based on Goals" sheet, do the following:
 6. Create a line chart to visualize the relationship between the goal amount and the campaign’s chances of success, failure, or cancellation.  
 
 7. Save the line chart as a .png image.  
-![Goal Chart](/Goal%20Chart.png)  
-**Outcomes Based On Goals chart**  
+![Goal Chart](/Goal%20Chart.png)   
 <br/>
 <br/>
 <br/>
@@ -70,4 +69,3 @@ In the "Outcomes Based on Launch Date" sheet, do the following:
 2. Set the “Parent Category” filter to “theater” and save the chart as a .png image, like the one below.  
 
 ![Launch Date Chart](https://github.com/Shannon-Goddard/kickstarter-analysis/blob/master/Launch%20Date%20Chart.png)
-**Outcomes Based on Launch Date chart**
