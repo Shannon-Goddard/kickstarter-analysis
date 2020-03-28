@@ -66,6 +66,6 @@ In the "Outcomes Based on Launch Date" sheet, do the following:
 
 1. Create a pivot table that charts the outcome of each Kickstarter project based on the launch date.  
 
-2. Set the “Parent Category” filter to “theater” and save the chart as a .png image, like the one below.  
+2. Set the “Parent Category” filter to “theater” and save the chart as a .png image.  
 
-![Launch Date Chart](https://github.com/Shannon-Goddard/kickstarter-analysis/blob/master/Launch%20Date%20Chart.png)
+![Launch Date Chart](/Launch%20Date%20Chart.png)
